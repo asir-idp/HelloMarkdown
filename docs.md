@@ -16,3 +16,18 @@ Lista enumerada con orden:
 3. ...
 
 ## Conclusión
+
+Total, que al final, los comandos para subir los cambios son:
+
+```bash
+git add .
+git commit -m "descripcion"
+git push
+```
+
+Formateado como SQL:
+
+```sql
+select * 
+from alumnos
+```
