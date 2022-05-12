@@ -12,4 +12,4 @@ Esto es un imagen:
 
 ![Enano](https://1.bp.blogspot.com/-rgm8pHvQUps/V8R_6c75FUI/AAAAAAAACRo/O0TPA4bRsYcNtP5OacBWfNHdIgomtNkhQCLcB/s1600/lanzamiento%2Benanos.jpg)
 
-Enlace al a [documentación](docs.md)
+Enlace a la [documentación](docs/index.md)
